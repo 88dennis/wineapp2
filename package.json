@@ -1,6 +1,6 @@
 {
   "name": "wineapp",
-  "homepage": "https://88dennis.github.io/wineapp/",
+  "homepage": "https://88dennis.github.io/wineapp2/",
   "version": "0.1.0",
   "proxy": "http://localhost:3001/",
   "private": true,
