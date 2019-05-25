@@ -1,13 +1,13 @@
 {
-  "main.css": "/wineapp/static/css/main.ea002138.chunk.css",
-  "main.js": "/wineapp/static/js/main.d8e8e78b.chunk.js",
-  "main.js.map": "/wineapp/static/js/main.d8e8e78b.chunk.js.map",
-  "runtime~main.js": "/wineapp/static/js/runtime~main.ad0d46f1.js",
-  "runtime~main.js.map": "/wineapp/static/js/runtime~main.ad0d46f1.js.map",
-  "static/js/2.fb396b31.chunk.js": "/wineapp/static/js/2.fb396b31.chunk.js",
-  "static/js/2.fb396b31.chunk.js.map": "/wineapp/static/js/2.fb396b31.chunk.js.map",
-  "index.html": "/wineapp/index.html",
-  "precache-manifest.d6492e35d39fa57b9298d60c8f717b17.js": "/wineapp/precache-manifest.d6492e35d39fa57b9298d60c8f717b17.js",
-  "service-worker.js": "/wineapp/service-worker.js",
-  "static/css/main.ea002138.chunk.css.map": "/wineapp/static/css/main.ea002138.chunk.css.map"
+  "main.css": "/wineapp2/static/css/main.ea002138.chunk.css",
+  "main.js": "/wineapp2/static/js/main.7c31710f.chunk.js",
+  "main.js.map": "/wineapp2/static/js/main.7c31710f.chunk.js.map",
+  "runtime~main.js": "/wineapp2/static/js/runtime~main.f0029ef6.js",
+  "runtime~main.js.map": "/wineapp2/static/js/runtime~main.f0029ef6.js.map",
+  "static/js/2.fb396b31.chunk.js": "/wineapp2/static/js/2.fb396b31.chunk.js",
+  "static/js/2.fb396b31.chunk.js.map": "/wineapp2/static/js/2.fb396b31.chunk.js.map",
+  "index.html": "/wineapp2/index.html",
+  "precache-manifest.55dda9e5404315279e78be41bc54f339.js": "/wineapp2/precache-manifest.55dda9e5404315279e78be41bc54f339.js",
+  "service-worker.js": "/wineapp2/service-worker.js",
+  "static/css/main.ea002138.chunk.css.map": "/wineapp2/static/css/main.ea002138.chunk.css.map"
 }
